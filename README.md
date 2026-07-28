@@ -16,11 +16,7 @@ https://github.com/user-attachments/assets/0e018b39-4974-42e7-a168-f01f60adce7a
 
 ## 📷 Screenshots
 
-ضعِ هنا لقطات الشاشة، مثلاً:
-
-![Main Screen](screenshots/main.png)
-
-![Conversation](screenshots/conversation.png)
+![Main Screen](screenshots/main.jpg)
 
 ---
 
@@ -117,23 +113,6 @@ Text-to-Speech
      ▼
 Audio Response
 ```
-
----
-
-## 💬 Example
-
-**User:**
-
-```
-ما هي عاصمة المملكة العربية السعودية؟
-```
-
-**Assistant:**
-
-```
-الرياض هي عاصمة المملكة العربية السعودية.
-```
-
 ---
 
 ## 👩‍💻 Developer
