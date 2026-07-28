@@ -122,10 +122,3 @@ Audio Response
 Computer Engineering Student
 
 Taif University
-
-https://github.com/user-attachments/assets/a7136239-ba40-4dd4-b6da-cf3242ce1e13
-
-
-
-https://github.com/user-attachments/assets/213dea13-c488-4c94-9bdf-32747507bf06
-
