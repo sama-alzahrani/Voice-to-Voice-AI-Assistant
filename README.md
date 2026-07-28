@@ -8,7 +8,8 @@ An Arabic Voice-to-Voice AI Assistant built with Python. The assistant listens t
 
 
 
-https://github.com/user-attachments/assets/0e097291-0129-4d2e-8734-af09e1927cea
+https://github.com/user-attachments/assets/0e018b39-4974-42e7-a168-f01f60adce7a
+
 
 
 ---
