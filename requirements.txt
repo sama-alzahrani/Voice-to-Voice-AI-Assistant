@@ -1,0 +1,6 @@
+cohere
+python-dotenv
+RealtimeSTT
+faster-whisper
+edge-tts
+pygame
