@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/0e018b39-4974-42e7-a168-f01f60adce7a
 
 ## 📷 Screenshots
 
-![Conversation](screenshots/conversation.png)
+![Conversation](screenshots/conversation.jpg)
 
 ---
 
